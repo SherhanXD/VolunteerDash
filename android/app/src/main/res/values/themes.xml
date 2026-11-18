@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VolunteerDash</string>
+    <style name="Theme.VolunteerDash" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/vd_bg</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
+    <color name="vd_bg">#F6F8FD</color>
+    <color name="vd_cobalt">#1F4FE0</color>
+</resources>

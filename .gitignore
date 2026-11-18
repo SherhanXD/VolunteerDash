@@ -1,0 +1,15 @@
+.env
+.env.*
+!.env.example
+local.properties
+keystore.properties
+*.jks
+*.keystore
+*.apk
+*.aab
+.gradle/
+.kotlin/
+build/
+node_modules/
+*.sqlite
+*.sqlite-*

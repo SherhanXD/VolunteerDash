@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- soft shadow -->
+    <path
+        android:fillColor="#33000000"
+        android:pathData="M54,81 m-9,0 a9,2.6 0,1 0,18 0 a9,2.6 0,1 0,-18 0" />
+    <!-- white map pin -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,25 C42.4,25 33,34.4 33,46 C33,60.5 54,80 54,80 C54,80 75,60.5 75,46 C75,34.4 65.6,25 54,25 Z" />
+    <!-- coral heart -->
+    <path
+        android:fillColor="#FF6B5B"
+        android:pathData="M54,55 C54,55 44,48.8 44,42.4 C44,39 46.5,36.6 49.6,36.6 C51.6,36.6 53.1,37.7 54,39.2 C54.9,37.7 56.4,36.6 58.4,36.6 C61.5,36.6 64,39 64,42.4 C64,48.8 54,55 54,55 Z" />
+</vector>
